@@ -1,6 +1,6 @@
 ### Chatterbox Application: Simple System Design Document
 
-**I am Greeshraj Patairiya, a 5th-year undergraduate student at the Indian Institute of Technology Kharagpur.**
+**I am Suraj Kumar, a 5th-year undergraduate student at the Indian Institute of Technology Kharagpur.**
 
 ---
 
